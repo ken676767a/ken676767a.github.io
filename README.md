@@ -2,7 +2,7 @@
 #簡介
 
 這是一個以sdl2為底用enet連線的雙人遊戲，若要編譯需要sdl.h sdl-image.h 和enet等libary。source.cpp是main程式，圖檔請和.exe放在同個資料夾有關遊戲的操作請看"遊戲說明.txt"
-
+![image](https://github.com/ken676767a/ken676767a.github.io/blob/sdl-net-game/1664944532655.jpg)
 #啟動遊戲
 
 A.自行建置步驟
