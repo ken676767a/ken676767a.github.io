@@ -15,6 +15,7 @@ A.自行建置步驟
             https://github.com/libsdl-org/SDL_image
      (3) enet     
              http://enet.bespin.org/Tutorial.html
+             
 3. 將程式庫和visual studio 專案連接
 
 4.severcpp.cpp 和source.cpp是兩個方案，ablity.h，mainroleh.h，ablilty.cpp是source.cpp要include的檔案
@@ -28,5 +29,7 @@ B.下載已建置好的exe
 1.圖檔和source.exe放在同個資料夾
 
 2.先打開severproject.exe再打開project2.exe
+
 #遊戲進行
+
 請見遊戲說明.exe
